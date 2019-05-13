@@ -1,0 +1,6 @@
+﻿/.vscode/
+*.gch
+*.o
+*.ll
+*.bc
+littlecc
